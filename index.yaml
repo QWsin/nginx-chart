@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  nginx-chart:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2026-02-11T04:28:39.00399815Z"
+    description: A Helm chart for Kubernetes, installing an nginx server.
+    digest: d86b45e5be2c033f9d5033e855603942733e9c15d0884bc8141122ebf1c9a697
+    name: nginx-chart
+    type: application
+    urls:
+    - https://github.com/QWsin/nginx-chart/releases/download/nginx-chart-0.1.4/nginx-chart-0.1.4.tgz
+    version: 0.1.4
+generated: "2026-02-11T04:28:39.0040036Z"
