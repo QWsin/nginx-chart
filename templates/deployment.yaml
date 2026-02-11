@@ -5,6 +5,7 @@ metadata:
   namespace: nginx-ns
   labels:
     app: nginx-server
+    user: yyh
 spec:
   replicas: 3
   selector:
